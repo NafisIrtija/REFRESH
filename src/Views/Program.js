@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Home() {
+function Program() {
   return (
     <div >
-      About text here.
+      (TBA)
     </div>
   );
 }
 
-export default Home;
+export default Program;

@@ -15,10 +15,10 @@ const Styles = styled.div`
   }
 `;
 
-export const Navibar = () => (
+const Navibar = () => (
   <Styles>
     <Navbar expand="lg">
-      <Navbar.Brand href="#">REFRESH</Navbar.Brand>
+      {/* <Navbar.Brand href="#">REFRESH</Navbar.Brand> */}
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
@@ -29,16 +29,43 @@ export const Navibar = () => (
           </Nav.Item>
           <Nav.Item>
             <Nav.Link>
-              <Link to="/about">About</Link>
+              <Link to="/scope">Scope</Link>
             </Nav.Link>
           </Nav.Item>
-          {/* <Nav.Item>
+          <Nav.Item>
+            <Nav.Link>
+              <Link to="/topics">Topics</Link>
+            </Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
+            <Nav.Link>
+              <Link to="/scope">Submissions</Link>
+            </Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
+            <Nav.Link>
+              <Link to="/dates">Important Dates</Link>
+            </Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
+            <Nav.Link>
+              <Link to="/committees">Committees</Link>
+            </Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
+            <Nav.Link>
+              <Link to="/program">Program</Link>
+            </Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
             <Nav.Link>
               <Link to="/contact">Contact</Link>
             </Nav.Link>
-          </Nav.Item> */}
+          </Nav.Item>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
   </Styles >
-)
+);
+
+export default Navibar;

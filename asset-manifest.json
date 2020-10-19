@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/REFRESH/static/css/main.5f361e03.chunk.css",
-    "main.js": "/REFRESH/static/js/main.576d00a6.chunk.js",
-    "main.js.map": "/REFRESH/static/js/main.576d00a6.chunk.js.map",
+    "main.js": "/REFRESH/static/js/main.bba70351.chunk.js",
+    "main.js.map": "/REFRESH/static/js/main.bba70351.chunk.js.map",
     "runtime-main.js": "/REFRESH/static/js/runtime-main.4f69fb7b.js",
     "runtime-main.js.map": "/REFRESH/static/js/runtime-main.4f69fb7b.js.map",
     "static/css/2.2a86faee.chunk.css": "/REFRESH/static/css/2.2a86faee.chunk.css",
-    "static/js/2.e9b95004.chunk.js": "/REFRESH/static/js/2.e9b95004.chunk.js",
-    "static/js/2.e9b95004.chunk.js.map": "/REFRESH/static/js/2.e9b95004.chunk.js.map",
+    "static/js/2.a350e1c1.chunk.js": "/REFRESH/static/js/2.a350e1c1.chunk.js",
+    "static/js/2.a350e1c1.chunk.js.map": "/REFRESH/static/js/2.a350e1c1.chunk.js.map",
     "index.html": "/REFRESH/index.html",
-    "precache-manifest.67c1ba3d6c3f18924342aa6c94b1f25d.js": "/REFRESH/precache-manifest.67c1ba3d6c3f18924342aa6c94b1f25d.js",
+    "precache-manifest.972e7ef3780d216057236d65b7f54751.js": "/REFRESH/precache-manifest.972e7ef3780d216057236d65b7f54751.js",
     "service-worker.js": "/REFRESH/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/REFRESH/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/REFRESH/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e9b95004.chunk.js.LICENSE.txt": "/REFRESH/static/js/2.e9b95004.chunk.js.LICENSE.txt",
+    "static/js/2.a350e1c1.chunk.js.LICENSE.txt": "/REFRESH/static/js/2.a350e1c1.chunk.js.LICENSE.txt",
     "static/media/paphos.jpg": "/REFRESH/static/media/paphos.35d07481.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4f69fb7b.js",
     "static/css/2.2a86faee.chunk.css",
-    "static/js/2.e9b95004.chunk.js",
+    "static/js/2.a350e1c1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.576d00a6.chunk.js"
+    "static/js/main.bba70351.chunk.js"
   ]
 }

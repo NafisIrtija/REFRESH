@@ -5,8 +5,7 @@ import Jumbotron from './Components/Jumbotron'
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  // Link
+  Route
 } from 'react-router-dom'
 import Home from './Views/Home.js'
 import Contact from './Views/Contact'

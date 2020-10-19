@@ -15,6 +15,7 @@ import Topics from './Views/Topics';
 import Program from './Views/Program';
 import Dates from './Views/Dates';
 import Committee from './Views/Committee';
+import Submissions from './Views/Submissions';
 
 
 
@@ -33,6 +34,11 @@ function App() {
 
             <Route path='/scope' >
               <Scope />
+            </Route>
+
+
+            <Route path='/submissions' >
+              <Submissions />
             </Route>
 
             <Route path='/topics' >

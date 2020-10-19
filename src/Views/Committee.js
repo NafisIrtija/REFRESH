@@ -3,13 +3,13 @@ import React from 'react';
 function Committee() {
     return (
 <div>
-<h2>Commitees</h2><br />
+<h1>Commitees</h1><br />
 <b>Program Committee Chairs </b><br />
 <a href="http://ece-research.unm.edu/tsiropoulou/Students.html">Eirini Eleni Tsiropoulou</a> (University of New Mexico, USA) <br />
 <a href="https://www.ece.ntua.gr/en/staff/76">Symeon Papavassiliou </a>(National Technical University of Athens, Greece)<br />
 
 <br />
-<b>Workshop Web Chair </b> <br />
+<b>Workshop Web Chairs </b> <br />
 <a href="https://nafisirtija.github.io"> Nafir Irtija</a> (University of New Mexico, USA) <br />
 <a href="https://sangoleyefisayo.github.io"> Fisayo Sangoleye</a> (University of New Mexico, USA) <br />
 
